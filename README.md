@@ -1,2 +1,4 @@
 # Airbnb
-airbnb
+This project is a full-stack Airbnb clone built using the MERN stack (MongoDB, Express.js, React, and Node.js). It includes key features such as user authentication with JWT, property listings with image uploads, booking functionality with date management, and user profile management. The application allows users to register, log in securely, create and manage property listings, and make reservations while preventing double-booking conflicts.
+
+The backend is powered by Node.js and Express, with MongoDB used for data persistence, while the frontend is developed in React with state management handled through Context API and React Router for navigation. The project is structured with separate backend and frontend directories, making it modular and scalable. It serves as a demonstration of building a modern, real-world web application with the MERN stack, and can be extended with features such as payments, map integration, advanced filters, and a reviews system.
